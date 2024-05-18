@@ -21,5 +21,5 @@ This repository serves as a testament to our commitment to excellence in data an
 
 ## Tools Used 💡
 ** 1. MySQL:** Leveraged for executing SQL queries to extract meaningful insights.
-** 2. MS Excel:** Utilized for crafting visually engaging representations of data.
+2. **MS Excel:** Utilized for crafting visually engaging representations of data.
 ** 3. PowerPoint:** Employed for creating presentations to effectively communicate insights to stakeholders.
