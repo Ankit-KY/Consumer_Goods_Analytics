@@ -1,4 +1,4 @@
-#*Ad-Hoc-Consumer-Goods*
+#Ad-Hoc-Consumer-Goods
 ##Overview
 Welcome to the repository for the Ad-Hoc-Consumer-Goods project, addressing crucial data analytics needs for Atliq Hardwares, a leading player in computer hardware production. This project aims to bridge the gap in obtaining timely and insightful data to empower informed decision-making within the executive management domain.
 
