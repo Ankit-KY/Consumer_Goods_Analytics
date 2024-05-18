@@ -1,22 +1,25 @@
-# Consumer-Goods-Analytics
-This project is part of data analytics bootcamp at codebasics.
-## video presentation link: "https://www.youtube.com/embed/GiVqPe_WqQY?si=6-cvijbN_uzkwZdF"
-##  Project Overview
+# *Ad-Hoc-Consumer-Goods*
+## Overview
+Welcome to the repository for the Ad-Hoc-Consumer-Goods project, addressing crucial data analytics needs for Atliq Hardwares, a leading player in computer hardware production. This project aims to bridge the gap in obtaining timely and insightful data to empower informed decision-making within the executive management domain.
 
-This repository contains the code and SQL queries used for the Consumer Goods domain part of the Data Analytics Bootcamp at Codebasics. In this project, I will be working with a dataset related to consumer goods. The goal is to answer ten specific ad hoc requests using SQL queries. The data used in this project belongs to "AtliQ Hardwares", a leading hardware company specializing in PCs, printers, mice, and computers with a global reach.
- 
-## Project Structure
+## Problem Statement
+Atliq Hardwares has established itself as a frontrunner in computer hardware production in India and beyond. However, the management has identified a critical need for timely and insightful data to support strategic decisions. To address this, the company seeks to augment its data analytics capabilities by onboarding junior data analysts proficient in both technical and soft skills.
 
-1. **SQL Files:** The SQL queries for each of the ten ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.
+## Task
+As a Data Analyst Intern at AtliQ Technologies, the primary responsibilities included:
+Reviewing 'ad-hoc-requests.pdf' to identify and execute SQL queries that address specific requests and offer actionable insights to the management team.
+Crafting presentations tailored for top-level management to succinctly convey key insights derived from the data analysis process.
 
-2. **Project Presentation Files:**  This ppt file contains the presentation of this  project.
+## Domain
+**Consumer Goods**
 
-##  Skills Learnt
-1. SQL Query Writing using CTE,rank,joins, date functions,sub-queries,numeric functions etc.
-2. Data Extraction and Transformation
-3. Data Analysis and Interpretation
-4. Report Generation
-5. Problem Solving and Decision Making
-
+## Key Learning
+**Advanced SQL Techniques:** Utilized various SQL features such as multiple joins, Common Table Expressions (CTEs), and Window Functions to extract and manipulate data effectively.
+**Effective Presentation Skills:** Developed proficiency in creating PowerPoint presentations to communicate complex insights in a clear and compelling manner.
+This repository serves as a testament to our commitment to excellence in data analytics and our dedication to supporting Atliq Hardwares in its pursuit of data-driven decision-making. We invite you to explore our work and witness the transformative power of data analytics in action.
 
 
+## Tools Used
+**1. MySQL:** Leveraged for executing SQL queries to extract meaningful insights.
+**2. MS Excel:** Utilized for crafting visually engaging representations of data.
+**3. PowerPoint:** Employed for creating presentations to effectively communicate insights to stakeholders.
