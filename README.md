@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/Ankit-KY/Consumer_Goods_Analytics/assets/148628279/31bf79cb-acd5-4677-ac60-d38c8c40dfd6)
+![image](https://github.com/Ankit-KY/Consumer_Goods_Analytics/assets/148628279/927c5919-334f-4ce6-8709-e348a40d8760)
 
 # Ad-Hoc-Consumer-Goods
 ## Overview 📚
@@ -46,3 +46,7 @@ This repository serves as a testament to our commitment to excellence in data an
 
 #### Do you have  any questions ? Feel free to ask anything….
 ### Connect with me on [linkedin](https://www.linkedin.com/in/ankit-kumar-yadav3027)
+
+
+#### Do you have  any questions ? Feel free to ask anything….
+### Connect with me on [linkedin.](https://www.linkedin.com/in/ankit-kumar-yadav3027)
