@@ -43,9 +43,7 @@ This repository serves as a testament to our commitment to excellence in data an
 1. **MySQL:** Leveraged for executing SQL queries to extract meaningful insights.
 2. **MS Excel:** Utilized for crafting visually engaging representations of data.
 3. **PowerPoint:** Employed for creating presentations to effectively communicate insights to stakeholders.
-
-#### Do you have  any questions ? Feel free to ask anything….
-### Connect with me on [linkedin](https://www.linkedin.com/in/ankit-kumar-yadav3027)
+   
 
 
 #### Do you have  any questions ? Feel free to ask anything….
